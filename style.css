@@ -3,7 +3,7 @@
 }
 
 #banner {
-  width:  100%;
+  width:  85%
 }
 
 h1{
@@ -20,4 +20,8 @@ p {
 
 em strong {
   color: #FF0000;
+}
+
+.itens {
+    font-style= italic
 }
